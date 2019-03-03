@@ -1,8 +1,10 @@
 import webbrowser
 
+
 class Movie():
     """
-      A class that contains the information and functions of the motion object to retrieve as information
+    A class that contains the information and functions of the motion object to
+    retrieve as information
     """
 
     def __init__(self, movie_title, movie_storyline,
